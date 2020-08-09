@@ -9,10 +9,12 @@ Now, a round of applause to [Namebase.io](https://namebase.io/), [Handshake](htt
 Without further ado! here are the domains of the future, now.
 - [1timefeedomains](http://www.home.1timefeedomains/)
 - [ancientmanuscripts](http://home.ancientmanuscripts/)
-- [bhandshake](http://try.bhandshake/)
 - [beenlit](http://barron.beenlit/)
 - [bhackme](http://home.bhackme/)
+- [bhandshake](http://try.bhandshake/)
+- [bmindful](http://herenow.bmindful/)
 - [googlebug](http://home.googlebug/)
+- [googlethatshit](http://home.googlethatshit/)
 - [144000](http://redeemers.144000/)
 - [raspberrypios](http://home.raspberrypios/)
 - [starbuckscrypto](http://herenow.starbuckscrypto/)
