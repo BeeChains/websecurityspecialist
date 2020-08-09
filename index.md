@@ -7,7 +7,7 @@ Sudomains for sale soon!!! Basically like anything you can imagine!
 Now, a round of applause to [Namebase.io](https://namebase.io/), [Handshake](https://handshake.org/) and [Sia](https://siasky.net/)
 
 Without further ado! here are the domains of the future, now.
-- [1timefeedomains](http://home.1timefeedomains/)
+- [1timefeedomains](http://www.home.1timefeedomains/)
 - [ancientmanuscripts](http://home.ancientmanuscripts/)
 - [bhandshake](http://try.bhandshake/)
 - [beenlit](http://barron.beenlit/)
