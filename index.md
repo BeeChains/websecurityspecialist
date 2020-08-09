@@ -1,6 +1,6 @@
 ## Welcome to admin.websecurityspecialist 
 
-This domain and the list below are both Blockchain and Top Level Domains in one. These domains are [1timefeedomains](home.1timefeedomains/) yes make a [Handshake](https://handshake.org/) once. 
+This domain and the list below are both Blockchain and Top Level Domains in one. These domains are [1timefeedomains](home.1timefeedomains/) and yes, you only need to make a [Handshake](https://handshake.org/) once. 
 
 Sudomains for sale soon!!! Basically like anything you can imagine! 
 
