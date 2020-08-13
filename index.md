@@ -31,5 +31,5 @@ Without further ado! I present some of our Domains that are built for the future
 
 To inquiry, email [bthespirit777@protonmail.com](https://protonmail.com/)
 
-Seek To Know Within!!!
+Know Within!!!
   
