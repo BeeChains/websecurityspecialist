@@ -10,6 +10,7 @@ Alternatively you can use [HNS.to](https://hns.to/) to resolve Handshake domains
 
 Without further ado! I present some of our Domains that are built for the future, now.
 - [144000](http://redeemers.144000/)
+- [redeemer1.144000](http://redeemer1.144000/)
 - [1timefeedomains](http://www.home.1timefeedomains/)
 - [1wav](https://soundcloud.com/bthespirit/1st-wave/)
 - [ancientmanuscripts](http://home.ancientmanuscripts/)
