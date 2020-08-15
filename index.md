@@ -17,17 +17,18 @@ Without further ado! I present some of our Domains that are built for the future
 - [bhackme](http://home.bhackme/)
 - [bhandshake](http://try.bhandshake/)
 - [bmindful](http://herenow.bmindful/)
+- [deadhead](http://grateful.deadhead/)
 - [forbobanddouginspace](http://dragon.forbobanddouginspace/)
+- [getlifted](http://bthespirit.getlifted/)
 - [googlebug](http://home.googlebug/)
 - [googlethatshit](http://home.googlethatshit/)
-- [deadhead](http://grateful.deadhead/)
+- [lux299](http://home.lux299/)
 - [raspberrypios](http://home.raspberrypios/)
+- [sippincoffee](http://ucanfindme.sippincoffee)
 - [starbuckscrypto](http://herenow.starbuckscrypto/)
 - [thepeacekeepers](https://siasky.net/hns/thepeacekeepers/) this domain uses the [Sia decentralized skynet](https://siasky.net/).
 - [THEPEOPLE](http://we.thepeople/)
 - [tinfoilhatgang](http://the.tinfoilhatgang/)
-- [sippincoffee](http://ucanfindme.sippincoffee)
-
 
 
 To inquiry, email [bthespirit777@protonmail.com](https://protonmail.com/)
