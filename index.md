@@ -30,9 +30,10 @@ Without further ado! I present some of our Domains that are built for the future
 - [googleusa](http://home.googleusa/)
 - [lux299](http://home.lux299/)
 - [marsapiens](http://home.marsapiens/)
-- [admin.networkmanager](http://admin.networkmanager/)
-- [localhost.networkmanager](http://localhost.networkmanager/)
-- [root.networkmanager](http://root.networkmanager/)
+# NetworkManager
+-- [admin.networkmanager](http://admin.networkmanager/)
+-- [localhost.networkmanager](http://localhost.networkmanager/)
+-- [root.networkmanager](http://root.networkmanager/)
 - [raspberrypios](http://home.raspberrypios/)
 - [sippincoffee](http://ucanfindme.sippincoffee)
 - [starbuckscrypto](http://herenow.starbuckscrypto/)
