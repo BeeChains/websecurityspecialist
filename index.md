@@ -12,7 +12,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [144000](http://redeemers.144000/)
 - [redeemer1.144000](http://redeemer1.144000/)
 - [redeemer2.144000](http://redeemer2.144000/)
-- [1timefeedomains](http://www.home.1timefeedomains/)
+- [1timefeedomains](http://home.1timefeedomains/)
 - [1wav](https://soundcloud.com/bthespirit/1st-wave/)
 - [ancientmanuscripts](http://home.ancientmanuscripts/)
 - [beenlit](http://barron.beenlit/)
