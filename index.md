@@ -40,6 +40,9 @@ Without further ado! I present some of our Domains that are built for the future
 
 
 To inquiry, email [bthespirit777@protonmail.com](https://protonmail.com/)
+- send ETH contributions to 0x5d9cb07d2f78dd60be6da855a97439c631d5b456
+- send HNS contributions to hs1qgm5aqe467tuh9wauaffmtk49pw8euk2kww6hc8
+- send BTC contributions to 17LnDXSxVDcWLKqaKLhtJV5w8L9PACwhNW
 
 Know Within!!!
   
