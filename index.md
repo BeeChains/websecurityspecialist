@@ -30,7 +30,9 @@ Without further ado! I present some of our Domains that are built for the future
 - [googleusa](http://home.googleusa/)
 - [lux299](http://home.lux299/)
 - [marsapiens](http://home.marsapiens/)
-- [networkmanager](http://admin.networkmanager/)
+- [admin.networkmanager](http://admin.networkmanager/)
+- [localhost.networkmanager](http://localhost.networkmanager/)
+- [root.networkmanager](http://root.networkmanager/)
 - [raspberrypios](http://home.raspberrypios/)
 - [sippincoffee](http://ucanfindme.sippincoffee)
 - [starbuckscrypto](http://herenow.starbuckscrypto/)
@@ -44,5 +46,5 @@ To inquiry, email [bthespirit777@protonmail.com](https://protonmail.com/)
 - send HNS contributions to hs1qgm5aqe467tuh9wauaffmtk49pw8euk2kww6hc8
 - send BTC contributions to 17LnDXSxVDcWLKqaKLhtJV5w8L9PACwhNW
 
-Know Within!!!
+Know Within!!! 
   
