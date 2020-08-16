@@ -15,6 +15,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [1timefeedomains](http://home.1timefeedomains/)
 - [1wav](https://soundcloud.com/bthespirit/1st-wave/)
 - [ancientmanuscripts](http://home.ancientmanuscripts/)
+- [bcrypto8](http://home.bcrypto8/)
 - [beenlit](http://barron.beenlit/)
 - [bhackme](http://home.bhackme/)
 - [bhandshake](http://try.bhandshake/)
