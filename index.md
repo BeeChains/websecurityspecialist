@@ -31,12 +31,16 @@ Without further ado! I present some of our Domains that are built for the future
 - [googlethatshit](http://home.googlethatshit/)
 - [googleusa](http://home.googleusa/)
 - [handshakeherenow](http://hns.handshakeherenow/)
+- [innerinetworkpresident](http://CEO.innerinetworkpresident)
 - [lux299](http://home.lux299/)
 - [marsapiens](http://home.marsapiens/)
 # NetworkManager
 -- [admin.networkmanager](http://admin.networkmanager/)
+
 -- [localhost.networkmanager](http://localhost.networkmanager/)
+
 -- [root.networkmanager](http://root.networkmanager/)
+
 - [raspberrypios](http://home.raspberrypios/)
 - [sippincoffee](http://ucanfindme.sippincoffee)
 - [starbuckscrypto](http://herenow.starbuckscrypto/)
