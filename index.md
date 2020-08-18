@@ -31,7 +31,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [googlethatshit](http://home.googlethatshit/)
 - [googleusa](http://home.googleusa/)
 - [handshakeherenow](http://hns.handshakeherenow/)
-- [innerinetworkpresident](http://CEO.innerinetworkpresident)
+- [innerinetworkpresident](http://official.innerinetworkpresident)
 - [lux299](http://home.lux299/)
 - [marsapiens](http://home.marsapiens/)
 # NetworkManager
