@@ -9,6 +9,7 @@ Please know as a new user you will need to use FireFox Browser and/or this link 
 Alternatively you can use [HNS.to](https://hns.to/) to resolve Handshake domains.
 
 Without further ado! I present some of our Domains that are built for the future, now.
+- [B-The-Spirit](http://i.b-the-spirit/)
 - [144000](http://redeemers.144000/)
 - [redeemer1.144000](http://redeemer1.144000/)
 - [redeemer2.144000](http://redeemer2.144000/)
