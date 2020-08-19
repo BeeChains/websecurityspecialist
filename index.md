@@ -22,6 +22,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [bhackme](http://home.bhackme/)
 - [bhandshake](http://try.bhandshake/)
 - [bmindful](http://herenow.bmindful/)
+- [Davenport Roots Company](http://official.davenportrootscompany/)
 - [deadhead](http://grateful.deadhead/)
 - [dragonriders](http://the.dragonriders/)
 - [encryptileaks](http://the.encryptileaks/)
@@ -32,6 +33,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [googlethatshit](http://home.googlethatshit/)
 - [googleusa](http://home.googleusa/)
 - [handshakeherenow](http://hns.handshakeherenow/)
+- [hempdomain](davenportrootscompany.hempdomain/)
 - [innerinetfoundation](http://official.innerinetfoundation)
 - [innerinetworkpresident](http://official.innerinetworkpresident)
 - [lux299](http://home.lux299/)
@@ -43,6 +45,7 @@ Without further ado! I present some of our Domains that are built for the future
 
 -- [root.networkmanager](http://root.networkmanager/)
 
+- [organicallygrown](http://davenportrootscompany.organicallygrown)
 - [raspberrypios](http://home.raspberrypios/)
 - [sippincoffee](http://ucanfindme.sippincoffee)
 - [starbuckscrypto](http://herenow.starbuckscrypto/)
