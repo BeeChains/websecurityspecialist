@@ -33,7 +33,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [googlethatshit](http://home.googlethatshit/)
 - [googleusa](http://home.googleusa/)
 - [handshakeherenow](http://hns.handshakeherenow/)
-- [hempdomain](davenportrootscompany.hempdomain/)
+- [hempdomain](http://davenportrootscompany.hempdomain/)
 - [innerinetfoundation](http://official.innerinetfoundation)
 - [innerinetworkpresident](http://official.innerinetworkpresident)
 - [lux299](http://home.lux299/)
