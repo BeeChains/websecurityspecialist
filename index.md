@@ -35,6 +35,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [googleusa](http://home.googleusa/)
 - [handshakeherenow](http://hns.handshakeherenow/)
 - [hempdomain](http://davenportrootscompany.hempdomain/)
+- [hivemind](http://we.hivemind/)
 - [innerinetfoundation](http://official.innerinetfoundation)
 - [innerinetworkpresident](http://official.innerinetworkpresident)
 - [lux299](http://home.lux299/)
