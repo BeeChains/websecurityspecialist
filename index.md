@@ -40,6 +40,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [innerinetworkpresident](http://official.innerinetworkpresident)
 - [lux299](http://home.lux299/)
 - [marsapiens](http://home.marsapiens/)
+- [MEDICINETRIBE](http://the.medicinetribe/)
 # NetworkManager
 -- [admin.networkmanager](http://admin.networkmanager/)
 
