@@ -31,6 +31,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [forbobanddouginspace](http://dragon.forbobanddouginspace/)
 - [getlifted](http://bthespirit.getlifted/)
 - [googlebug](http://home.googlebug/)
+- [googlenow](http://hello.googlenow/)
 - [googlerobot](http://home.googlerobot/)
 - [googlethatshit](http://home.googlethatshit/)
 - [googleusa](http://home.googleusa/)
