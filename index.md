@@ -56,6 +56,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [thepeacekeepers](https://siasky.net/hns/thepeacekeepers/) this domain uses the [Sia decentralized skynet](https://siasky.net/).
 - [THEPEOPLE](http://we.thepeople/)
 - [tinfoilhatgang](http://the.tinfoilhatgang/)
+- [🍄magic](http://trippy.xn--magic-yn93d/)
 
 
 To inquiry, email [bthespirit777@protonmail.com](https://protonmail.com/)
