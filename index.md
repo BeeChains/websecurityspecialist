@@ -25,6 +25,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [cyberintelligencegroup](http://masterthyself.cyberintelligencegroup/)
 - [Davenport Roots Company](http://official.davenportrootscompany/)
 - [deadhead](http://grateful.deadhead/)
+- [dnssecuritygroup](http://therootzone.dnssecuritygroup/)
 - [dragonriders](http://the.dragonriders/)
 - [encryptileaks](http://the.encryptileaks/)
 - [forbobanddouginspace](http://dragon.forbobanddouginspace/)
