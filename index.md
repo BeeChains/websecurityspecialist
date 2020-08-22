@@ -43,6 +43,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [hempdomain](http://davenportrootscompany.hempdomain/)
 - [hivemind](http://we.hivemind/)
 - [innerinetfoundation](http://official.innerinetfoundation)
+- [innerinetfounder](http://home.innerinetfounder/)
 - [innerinetworkpresident](http://official.innerinetworkpresident)
 - [lux299](http://home.lux299/)
 - [marsapiens](http://home.marsapiens/)
