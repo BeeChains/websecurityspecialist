@@ -11,6 +11,7 @@ Another option is try using [HNS.to](https://hns.to/) to resolve Handshake domai
 Without further ado! I present some of our Domains that are built for the future, and Shaping Reality Now.
 - [B-The-Spirit](http://i.b-the-spirit/)
 - [144000](http://redeemers.144000/)
+- [1timehandshake](http://home.1timehandshake/)
 - [redeemer1.144000](http://redeemer1.144000/)
 - [redeemer2.144000](http://redeemer2.144000/)
 - [redeemer3.144000](http://redeemer3.144000/)
