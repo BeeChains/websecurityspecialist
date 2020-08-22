@@ -28,6 +28,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [deadhead](http://grateful.deadhead/)
 - [dnssecuritygroup](http://therootzone.dnssecuritygroup/)
 - [dragonriders](http://the.dragonriders/)
+- [earthheart](http://heartearth.earthheart/)
 - [encryptileaks](http://the.encryptileaks/)
 - [forbobanddouginspace](http://dragon.forbobanddouginspace/)
 - [getlifted](http://bthespirit.getlifted/)
