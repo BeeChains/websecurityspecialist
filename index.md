@@ -9,6 +9,8 @@ Please know as a new user you will need to use FireFox Browser and/or this link 
 Another option is try using [HNS.to](https://hns.to/) to resolve Handshake domains.
 
 Without further ado! I present some of our Domains that are built for the future, and Shaping Reality Now.
+
+- [AllSeeingI](http://innerifounder.allseeingi/)
 - [B-The-Spirit](http://i.b-the-spirit/)
 - [144000](http://redeemers.144000/)
 - [1timehandshake](http://home.1timehandshake/)
