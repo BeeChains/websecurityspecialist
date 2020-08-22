@@ -55,8 +55,9 @@ Without further ado! I present some of our Domains that are built for the future
 - [raspberrypios](http://home.raspberrypios/)
 - [sippincoffee](http://ucanfindme.sippincoffee)
 - [starbuckscrypto](http://herenow.starbuckscrypto/)
-- [thepeacekeepers](https://siasky.net/hns/thepeacekeepers/) this domain uses the [Sia decentralized skynet](https://siasky.net/).
+- [thepeacekeepers](https://siasky.net/hns/thepeacekeepers/) this domain uses the [Sia decentralized skynet](https://siasky.net/)
 - [THEPEOPLE](http://we.thepeople/)
+- [THEROOTZONE](http://dnssecuritygroup.therootzone/)
 - [tinfoilhatgang](http://the.tinfoilhatgang/)
 - [🍄magic](http://trippy.xn--magic-yn93d/)
 
