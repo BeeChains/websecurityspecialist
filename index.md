@@ -23,7 +23,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [bhackme](http://home.bhackme/)
 - [bhandshake](http://try.bhandshake/)
 - [bmindful](http://herenow.bmindful/)
-- [cyberintelligencegroup](http://masterthyself.cyberintelligencegroup/)
+- [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup/)
 - [Davenport Roots Company](http://official.davenportrootscompany/)
 - [deadhead](http://grateful.deadhead/)
 - [dnssecuritygroup](http://therootzone.dnssecuritygroup/)
