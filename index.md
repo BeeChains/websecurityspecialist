@@ -1,3 +1,12 @@
+<div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="http://admin.networkmanager/">Admin</a>
+    <a href="https://gateway.pinata.cloud/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/">About</a>
+    <a href="http://i.b-the-spirit/">Contact</a>
+  </div>
+</div>
+
 ## Welcome to admin.websecurityspecialist 
 
 This domain and the list below are both Blockchain and Top Level Domains in one. These domains are [1timefeedomains](http://home.1timefeedomains/) and yes, you only need to make a [Handshake](https://handshake.org/) once. Or like make a [HandshakeHereNow](http://hns.handshakeherenow/)
