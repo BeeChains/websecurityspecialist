@@ -1,11 +1,4 @@
-<div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="http://admin.networkmanager/">Admin</a>
-    <a href="https://gateway.pinata.cloud/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/">About</a>
-    <a href="http://i.b-the-spirit/">Contact</a>
-  </div>
-</div>
+[Admin](http://admin.networkmanager/) | [About](https://gateway.pinata.cloud/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/) | [Contact](http://i.b-the-spirit/)
 
 ## Welcome to admin.websecurityspecialist 
 
