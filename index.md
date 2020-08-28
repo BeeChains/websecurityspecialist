@@ -70,6 +70,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [THEROOTZONE](http://dnssecuritygroup.therootzone/)
 - [tinfoilhatgang](http://the.tinfoilhatgang/)
 - [🍄magic](http://trippy.xn--magic-yn93d/)
+- [youareguru](http://only.youareguru/)
 
 
 To inquiry, email [bthespirit777@protonmail.com](https://protonmail.com/)
