@@ -13,6 +13,7 @@ Another option is try using [HNS.to](https://hns.to/) to resolve Handshake domai
 Without further ado! I present some of our Domains that are built for the future, and Shaping Reality Now.
 
 - [AllSeeingI](http://innerinetfounder.allseeingi/)
+- [atlantabiz](http://welcomeatl.atlantabiz/)
 - [B-The-Spirit](http://i.b-the-spirit/)
 - [144000](http://redeemers.144000/)
 - [1timehandshake](http://home.1timehandshake/)
