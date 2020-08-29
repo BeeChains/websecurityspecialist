@@ -28,6 +28,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [bhackme](http://home.bhackme/)
 - [bhandshake](http://try.bhandshake/)
 - [bmindful](http://herenow.bmindful/)
+- [CosMatrixFoundation](http://binnerspace.cosmatrixfoundation/)
 - [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup/)
 - [Davenport Roots Company](http://official.davenportrootscompany/)
 - [deadhead](http://grateful.deadhead/)
