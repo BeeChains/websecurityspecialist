@@ -37,6 +37,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [earthheart](http://heartearth.earthheart/)
 - [earthscapes](http://sacredcliff.earthscapes/)
 - [encryptileaks](http://the.encryptileaks/)
+- [entrepreneurdomain](http://hns.entrepreneurdomain/)
 - [entrepreneurodomains](http://podvig.entrepreneurodomains/)
 - [forbobanddouginspace](http://dragon.forbobanddouginspace/)
 - [getlifted](http://bthespirit.getlifted/)
