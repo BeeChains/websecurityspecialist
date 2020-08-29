@@ -48,6 +48,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [googlethatshit](http://home.googlethatshit/)
 - [googleusa](http://home.googleusa/)
 - [hackmedomain](http://loveme.hackmedomain/)
+- [hackmeweb](http://hns.hackmeweb/)
 - [handshakeherenow](http://hns.handshakeherenow/)
 - [hempdomain](http://davenportrootscompany.hempdomain/)
 - [hivemind](http://we.hivemind/)
