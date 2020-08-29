@@ -52,6 +52,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [innerinetfoundation](http://official.innerinetfoundation)
 - [innerinetfounder](http://home.innerinetfounder/)
 - [innerinetworkpresident](http://official.innerinetworkpresident)
+- [JAH-LIVE](http://iandi.jah-live/)
 - [lux299](http://home.lux299/)
 - [marsapiens](http://home.marsapiens/)
 - [MEDICINETRIBE](http://the.medicinetribe/)
