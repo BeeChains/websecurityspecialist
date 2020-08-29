@@ -31,6 +31,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup/)
 - [Davenport Roots Company](http://official.davenportrootscompany/)
 - [deadhead](http://grateful.deadhead/)
+- [DecentralizedIntelligenceAgency](http://governthyself.decentralizedintelligenceagency/)
 - [dnssecuritygroup](http://therootzone.dnssecuritygroup/)
 - [dragonriders](http://the.dragonriders/)
 - [earthheart](http://heartearth.earthheart/)
