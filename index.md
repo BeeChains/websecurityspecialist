@@ -49,7 +49,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [handshakeherenow](http://hns.handshakeherenow/)
 - [hempdomain](http://davenportrootscompany.hempdomain/)
 - [hivemind](http://we.hivemind/)
-- [holistichealing](innerinetcompany.holistichealing/)
+- [holistichealing](http://innerinetcompany.holistichealing/)
 - [innerinetfoundation](http://official.innerinetfoundation)
 - [innerinetfounder](http://home.innerinetfounder/)
 - [innerinetworkpresident](http://official.innerinetworkpresident)
