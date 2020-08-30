@@ -70,7 +70,7 @@ Without further ado! I present some of our Domains that are built for the future
 -- [root.networkmanager](http://root.networkmanager/)
 
 - [organicallygrown](http://davenportrootscompany.organicallygrown)
-- [RAINBOWTRIBES](http://unite.therainbowtribes/)
+- [RAINBOWTRIBES](http://unite.rainbowtribes/)
 - [raspberrypios](http://home.raspberrypios/)
 - [realestateco](http://shapingreality.realestateco/)
 - [realestatellc](http://shapingreality.realestatellc/)
