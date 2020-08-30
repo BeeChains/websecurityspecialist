@@ -14,6 +14,7 @@ Without further ado! I present some of our Domains that are built for the future
 
 - [AllSeeingI](http://innerinetfounder.allseeingi/)
 - [atlantabiz](http://welcomeatl.atlantabiz/)
+- [atlantalaw/](http://toplawyers.atlantalaw/)
 - [B-The-Spirit](http://i.b-the-spirit/)
 - [144000](http://redeemers.144000/)
 - [redeemer1.144000](http://redeemer1.144000/)
