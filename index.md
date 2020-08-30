@@ -83,6 +83,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [THEROOTZONE](http://dnssecuritygroup.therootzone/)
 - [tinfoilhatgang](http://the.tinfoilhatgang/)
 - [🍄magic](http://trippy.xn--magic-yn93d/)
+- [WebSecurityGroup/](http://admin.websecuritygroup/)
 - [youareguru](http://only.youareguru/)
 
 
