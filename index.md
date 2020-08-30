@@ -70,6 +70,7 @@ Without further ado! I present some of our Domains that are built for the future
 -- [root.networkmanager](http://root.networkmanager/)
 
 - [organicallygrown](http://davenportrootscompany.organicallygrown)
+- [RAINBOWTRIBES](http://unite.therainbowtribes/)
 - [raspberrypios](http://home.raspberrypios/)
 - [realestateco](http://shapingreality.realestateco/)
 - [realestatellc](http://shapingreality.realestatellc/)
@@ -78,7 +79,6 @@ Without further ado! I present some of our Domains that are built for the future
 - [THEMOTHERSHIP](http://herenow.themothership/)
 - [thepeacekeepers](https://siasky.net/hns/thepeacekeepers/) this domain uses the [Sia decentralized skynet](https://siasky.net/)
 - [THEPEOPLE](http://we.thepeople/)
-- [THERAINBOWTRIBES/](http://unite.therainbowtribes/)
 - [THEROOTZONE](http://dnssecuritygroup.therootzone/)
 - [tinfoilhatgang](http://the.tinfoilhatgang/)
 - [🍄magic](http://trippy.xn--magic-yn93d/)
