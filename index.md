@@ -74,7 +74,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [RAINBOWTRIBES](http://unite.rainbowtribes/)
 - [raspberrypios](http://home.raspberrypios/)
 - [realestateco](http://shapingreality.realestateco/)
-- [realestatellc](http://shapingreality.realestatellc/)
+- [realestatellc](http://shapereality.realestatellc/)
 - [sippincoffee](http://ucanfindme.sippincoffee)
 - [starbuckscrypto](http://herenow.starbuckscrypto/)
 - [THEMOTHERSHIP](http://herenow.themothership/)
