@@ -55,6 +55,7 @@ Without further ado! The entirety of [REAL ESTATE LLC](http://shapereality.reale
 - [handshakeherenow](http://hns.handshakeherenow/)
 - [hempdomain](http://davenportrootscompany.hempdomain/)
 - [HERE IN THE NOW](http://b.hereinthenow/)
+- [HERE NOW](http://b.herenow/)
 - [hivemind](http://we.hivemind/)
 - [hnscrypto](http://thebarron.hnscrypto/)
 - [holistichealing](http://innerinetcompany.holistichealing/)
