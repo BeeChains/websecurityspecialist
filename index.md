@@ -29,7 +29,7 @@ Without further ado! I present some of our Domains that are built for the future
 - [bhackme](http://home.bhackme/)
 - [bhandshake](http://try.bhandshake/)
 - [bmindful](http://herenow.bmindful/)
-- [CLEMSONUNIVERSITYOFSOUTHCAROLINA/](http://theone.clemsonuniversityofsouthcarolina/)
+- [CLEMSONUNIVERSITYOFSOUTHCAROLINA/](http://hns.clemsonuniversityofsouthcarolina/)
 - [CosMatrixFoundation](http://binnerspace.cosmatrixfoundation/)
 - [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup/)
 - [Davenport Roots Company](http://official.davenportrootscompany/)
