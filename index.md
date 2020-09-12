@@ -88,7 +88,7 @@ Without further ado! The entirety of [REAL ESTATE LLC](http://shapereality.reale
 - [🍄magic](http://trippy.xn--magic-yn93d/)
 - [WebSecurityGroup/](http://admin.websecuritygroup/)
 - [WETRIPPY](http://hns.wetrippy/)
-- [youareguru](http://only.youareguru/)
+- [youareguru](http://iam.youareguru/)
 
 
 To inquiry, email [bthespirit777@protonmail.com](https://protonmail.com/)
