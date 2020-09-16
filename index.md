@@ -82,6 +82,7 @@ Without further ado! The entirety of [REAL ESTATE LLC](http://shapereality.reale
 - [realestateco](http://shapingreality.realestateco/)
 - [realestatellc](http://shapereality.realestatellc/)
 - [SHAPEREALITY](http://innerinetcompany.shapereality/)
+- [SHAPINGREALITY](http://reddragonmatrix.shapingreality)
 - [sippincoffee](http://ucanfindme.sippincoffee)
 - [starbuckscrypto](http://herenow.starbuckscrypto/)
 - [THEMOTHERSHIP](http://herenow.themothership/)
