@@ -33,7 +33,7 @@ Without further ado! The entirety of [REAL ESTATE LLC](http://shapereality.reale
 - [CosMatrixFoundation](http://binnerspace.cosmatrixfoundation/)
 - [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup/)
 - [Davenport Roots Company](http://official.davenportrootscompany/)
-- [deadhead](http://grateful.deadhead/)
+- [DEADHEAD](http://grateful.deadhead/)
 - [DecentralizedIntelligenceAgency](http://governthyself.decentralizedintelligenceagency/)
 - [dnssecuritygroup](http://therootzone.dnssecuritygroup/)
 - [dragonriders](http://the.dragonriders/)
