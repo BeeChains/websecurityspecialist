@@ -68,12 +68,7 @@ Without further ado! The entirety of [REAL ESTATE LLC](http://shapereality.reale
 - [lux299](http://home.lux299/)
 - [marsapiens](http://home.marsapiens/)
 - [MEDICINETRIBE](http://the.medicinetribe/)
-# NetworkManager
--- [admin.networkmanager](http://admin.networkmanager/)
-
--- [localhost.networkmanager](http://localhost.networkmanager/)
-
--- [root.networkmanager](http://root.networkmanager/)
+# NetworkManager | [admin.networkmanager](http://admin.networkmanager/) | [localhost.networkmanager](http://localhost.networkmanager/) | [root.networkmanager](http://root.networkmanager/)
 
 - [organicallygrown](http://davenportrootscompany.organicallygrown)
 - [OUTTHEMUD](http://gleaming.outthemud/)
