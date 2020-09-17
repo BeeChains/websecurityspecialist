@@ -67,6 +67,7 @@ Without further ado! The entirety of [REAL ESTATE LLC](http://shapereality.reale
 - [JAH-LIVE](http://iandi.jah-live/)
 - [lux299](http://home.lux299/)
 - [marsapiens](http://home.marsapiens/)
+- [MASTERTHYSELF](http://near.masterthyself)
 - [MEDICINETRIBE](http://the.medicinetribe/)
 # NetworkManager | [admin.networkmanager](http://admin.networkmanager/) | [localhost.networkmanager](http://localhost.networkmanager/) | [root.networkmanager](http://root.networkmanager/)
 
