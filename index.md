@@ -99,6 +99,4 @@ To inquiry, email [bthespirit777@protonmail.com](https://protonmail.com/)
 
 Know Within!!! 
 
-'sidn_dnssec_check'
-<div id="sidn_dnssec_check"></div>
   
