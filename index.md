@@ -31,6 +31,7 @@ Without further ado! The entirety of [REAL ESTATE LLC](http://shapereality.reale
 - [bmindful](http://herenow.bmindful/)
 - [CLEMSONUNIVERSITYOFSOUTHCAROLINA/](http://hns.clemsonuniversityofsouthcarolina/)
 - [CosMatrixFoundation](http://binnerspace.cosmatrixfoundation/)
+- [CrystallineBeing](http://evolvement.crystallinebeing/)
 - [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup/)
 - [Davenport Roots Company](http://official.davenportrootscompany/)
 - [DEADHEAD](http://grateful.deadhead/)
