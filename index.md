@@ -15,6 +15,7 @@ Without further ado! The entirety of [REAL ESTATE LLC](http://shapereality.reale
 - [AllSeeingI](http://innerinetfounder.allseeingi/)
 - [atlantabiz](http://welcomeatl.atlantabiz/)
 - [atlantalaw/](http://toplawyers.atlantalaw/)
+- [BENESS](http://herenow.beness/)
 - [B-The-Spirit](http://i.b-the-spirit/)
 - [144000](http://redeemers.144000/)
 - [redeemer1.144000](http://redeemer1.144000/)
@@ -71,6 +72,7 @@ Without further ado! The entirety of [REAL ESTATE LLC](http://shapereality.reale
 - [MEDICINETRIBE](http://the.medicinetribe/)
 # NetworkManager | [admin.networkmanager](http://admin.networkmanager/) | [localhost.networkmanager](http://localhost.networkmanager/) | [root.networkmanager](http://root.networkmanager/)
 
+- [NXDOMAIN](http://herenow.nxdomain/)
 - [organicallygrown](http://davenportrootscompany.organicallygrown)
 - [OUTTHEMUD](http://gleaming.outthemud/)
 - [RAINBOWTRIBES](http://unite.rainbowtribes/)
