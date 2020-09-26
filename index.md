@@ -36,6 +36,7 @@ Without further ado! The entirety of [REAL ESTATE LLC](http://shapereality.reale
 - [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup/)
 - [Davenport Roots Company](http://official.davenportrootscompany/)
 - [DEADHEAD](http://grateful.deadhead/)
+- [DECENTRALIZED DNS](http://dnsdesigns.decentralizeddns/)
 - [dnssecuritygroup](http://therootzone.dnssecuritygroup/)
 - [dragonriders](http://the.dragonriders/)
 - [earthheart](http://heartearth.earthheart/)
