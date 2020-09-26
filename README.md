@@ -2,7 +2,7 @@
 
 This is a Blockchain and a Top Level Domain!
 
-Now, a round of applause to [Handshake](https://handshake.org/)  
+Amazing [Handshake](https://handshake.org/) [NameBase](https://namebase.io/). 
 
 - subdomains available soon!!
  
