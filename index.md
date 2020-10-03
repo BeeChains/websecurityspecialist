@@ -74,6 +74,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [marsapiens](http://home.marsapiens/)
 - [MASTERTHYSELF](http://innerinetcompany.masterthyself) 
 - [MEDICINETRIBE](http://the.medicinetribe/)
+- [🍄magic](http://trippy.xn--magic-yn93d/)
 # NetworkManager | [admin.networkmanager](http://admin.networkmanager/) | [localhost.networkmanager](http://localhost.networkmanager/) | [root.networkmanager](http://root.networkmanager/)
 
 - [NXDOMAIN](http://herenow.nxdomain/)
@@ -92,7 +93,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [THEPEOPLE](http://we.thepeople/)
 - [THEROOTZONE](http://dnssecuritygroup.therootzone/)
 - [tinfoilhatgang](http://the.tinfoilhatgang/)
-- [🍄magic](http://trippy.xn--magic-yn93d/)
+- [universaloperationalordinance/]
 - [WebSecurityGroup/](http://admin.websecuritygroup/)
 - [WETRIPPY](http://hns.wetrippy/)
 - [youareguru](http://iam.youareguru/)
