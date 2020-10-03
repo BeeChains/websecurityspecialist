@@ -93,7 +93,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [THEPEOPLE](http://we.thepeople/)
 - [THEROOTZONE](http://dnssecuritygroup.therootzone/)
 - [tinfoilhatgang](http://the.tinfoilhatgang/)
-- [universaloperationalordinance/]
+- [universaloperationalordinance/](https://www.dkb-mevlana.org.tr/en/txt/tanitim.pdf)
 - [WebSecurityGroup/](http://admin.websecuritygroup/)
 - [WETRIPPY](http://hns.wetrippy/)
 - [youareguru](http://iam.youareguru/)
