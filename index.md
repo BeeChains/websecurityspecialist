@@ -85,7 +85,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 
 - [NXDOMAIN](http://herenow.nxdomain/)
 - [organicallygrown](http://davenportrootscompany.organicallygrown)
-- [OUTTHAMUD](herenow.outthamud/)
+- [OUTTHAMUD](http://herenow.outthamud/)
 - [OUTTHEMUD](http://gleaming.outthemud/)
 - [RAINBOWTRIBES](http://unite.rainbowtribes/)
 - [raspberrypios](http://home.raspberrypios/)
