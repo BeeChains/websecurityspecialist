@@ -72,6 +72,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [hivemind](http://we.hivemind/)
 - [hnscrypto](http://thebarron.hnscrypto/)
 - [holistichealing](http://innerinetcompany.holistichealing/)
+- [IlluminadiCongo](https://illuminaticongo.com/)
 - [InnerINetCompany](http://shapereality.innerinetcompany/)
 - [innerinetfoundation](http://official.innerinetfoundation)
 - [innerinetfounder](http://home.innerinetfounder/)
