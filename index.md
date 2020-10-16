@@ -83,7 +83,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [JAH-LIVE](http://iandi.jah-live/)
 - [lux299](http://home.lux299/)
 - [marsapiens](http://home.marsapiens/)
-- [MASTERTHYSELF](http://innerinetcompany.masterthyself) 
+- [MASTERTHYSELF](http://innerinetcompany.masterthyself) Handshake site. | [MasterThyself](https://masterthyself.joomla.com/) Joomla site.
 - [MEDICINETRIBE](http://the.medicinetribe/)
 - [🍄magic](http://trippy.xn--magic-yn93d/)
 - [MySpiritWave Crypto Exchange](https://exchange.myspiritwave.xyz/)
