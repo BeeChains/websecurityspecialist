@@ -76,7 +76,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [holistichealing](http://innerinetcompany.holistichealing/)
 - [IlluminadiCongo](https://illuminaticongo.com/)
 - [INDIGO-STARSEED](http://innerinetcompany.indigo-starseed/)
-- [InnerINetCompany](http://shapereality.innerinetcompany/)
+- [Inner I Net Company](http://shapereality.innerinetcompany/) Handshake site. | [Inner I Net Company](https://innerinetcompany.webflow.io/) WebFlow site.
 - [innerinetfoundation](http://official.innerinetfoundation)
 - [innerinetfounder](http://home.innerinetfounder/)
 - [innerinetworkpresident](http://official.innerinetworkpresident)
