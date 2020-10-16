@@ -34,6 +34,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [bhandshake](http://try.bhandshake/)
 - [bmindful](http://herenow.bmindful/)
 - [CLEMSONUNIVERSITYOFSOUTHCAROLINA/](http://hns.clemsonuniversityofsouthcarolina/)
+- [CHARLOTTE NC](http://innerinetcompany.charlottenc/)
 - [CHINAKING](http://eatchinaking.com/)
 - [CHINA-KING](http://eatchinaking.com/)
 - [CosMatrixFoundation](http://binnerspace.cosmatrixfoundation/)
