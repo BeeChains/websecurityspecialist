@@ -75,7 +75,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [hnscrypto](http://thebarron.hnscrypto/)
 - [holistichealing](http://innerinetcompany.holistichealing/)
 - [IlluminadiCongo](https://illuminaticongo.com/)
-- [INDIGO-STARSEED](http://cosmicbeing.indigo-starseed/)
+- [INDIGO-STARSEED](http://innerinetcompany.indigo-starseed/)
 - [InnerINetCompany](http://shapereality.innerinetcompany/)
 - [innerinetfoundation](http://official.innerinetfoundation)
 - [innerinetfounder](http://home.innerinetfounder/)
