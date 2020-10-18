@@ -81,6 +81,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [innerinetfounder](http://home.innerinetfounder/)
 - [innerinetworkpresident](http://official.innerinetworkpresident)
 - [JAH-LIVE](http://iandi.jah-live/)
+- [KOZMOZ MATRIX](http://innerchamber.kozmozmatrix/)
 - [lux299](http://home.lux299/)
 - [marsapiens](http://home.marsapiens/)
 - [MASTERTHYSELF](http://innerinetcompany.masterthyself) Handshake site. | [MasterThyself](https://masterthyself.joomla.com/) Joomla site.
