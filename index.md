@@ -38,7 +38,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [CHINAKING](http://eatchinaking.com/)
 - [CHINA-KING](http://eatchinaking.com/)
 - [CosMatrixFoundation](http://binnerspace.cosmatrixfoundation/)
-- [CosmicSpace](http://hackthecosmos.cosmicspace/)
+- [CosmicSpace](http://home.cosmicspace/)
 - [CrystallineBeing](http://evolvement.crystallinebeing/)
 - [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup/)
 - [Davenport Roots Company](http://official.davenportrootscompany/)
