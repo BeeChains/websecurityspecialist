@@ -72,6 +72,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [HERE IN THE NOW](http://b.hereinthenow/)
 - [HERE NOW](http://b.herenow/)
 - [hivemind](http://we.hivemind/)
+- [HNS-BROTHERHOOD](http://home.hns-brotherhood/)
 - [hnscrypto](http://thebarron.hnscrypto/)
 - [holistichealing](http://innerinetcompany.holistichealing/)
 - [IlluminadiCongo](https://illuminaticongo.com/)
