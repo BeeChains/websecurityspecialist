@@ -102,6 +102,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [raspberrypios](http://home.raspberrypios/)
 - [realestateco](http://shapingreality.realestateco/)
 - [realestatellc](http://shapereality.realestatellc/)
+- [SACRED VIBES](http://home.sacredvibes/)
 - [SHAPEREALITY](http://innerinetcompany.shapereality/)
 - [SHAPINGREALITY](http://reddragonmatrix.shapingreality)
 - [sippincoffee](http://ucanfindme.sippincoffee)
