@@ -12,6 +12,7 @@ Another option is try using [HNS.to](https://hns.to/) to resolve Handshake domai
 
 Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.innerinetcompany/) New Web [REAL ESTATE LLC](http://shapereality.realestatellc/) Domains are [ORGANICALLY GROWN](http://davenportrootscompany.organicallygrown/) from [THE ROOT ZONE](http://dnssecuritygroup.therootzone/) and built for the future web by [SHAPING REALITY](http://innerinetcompany.shapereality/) right [HERE IN THE NOW](http://b.hereinthenow/).  
 
+- [THE 🕸 3](http://home.xn--the3-iq73c/)
 - [🕸3](http://owntheinternet.🕸3/)
 - [AgniYogi](http://agniyoga.org/index.php)
 - [AllSeeingI](http://innerinetfounder.allseeingi/)
