@@ -108,6 +108,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [SHAPINGREALITY](http://reddragonmatrix.shapingreality)
 - [sippincoffee](http://ucanfindme.sippincoffee)
 - [starbuckscrypto](http://herenow.starbuckscrypto/)
+- [TACTICA ADVERSA](http://home.tacticaadversa/)
 - [THEMOTHERSHIP](http://herenow.themothership/)
 - [thepeacekeepers](https://siasky.net/hns/thepeacekeepers/) this domain uses the [Sia decentralized skynet](https://siasky.net/)
 - [THEPEOPLE](http://we.thepeople/)
