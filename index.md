@@ -120,6 +120,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [WETRIPPY](http://hns.wetrippy/)
 - [youareguru](http://iam.youareguru/)
 
+[Buy,Sell or Trade With Paxful Kiosk here](https://paxful.com/roots/buy-bitcoin/index?kiosk=WDZdGMqXk7M)
 
 To inquiry, email [bthespirit777@protonmail.com](https://protonmail.com/)
 - send ETH contributions to 0x5d9cb07d2f78dd60be6da855a97439c631d5b456
