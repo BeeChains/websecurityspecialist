@@ -80,6 +80,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [HNS-BROTHERHOOD](http://home.hns-brotherhood/)
 - [hnscrypto](http://thebarron.hnscrypto/)
 - [HNS-DOMAINS](http://home.hns-domains/)
+- [HNS ROOT](http://home.hnsroot/)
 - [holistichealing](http://innerinetcompany.holistichealing/)
 - [IlluminadiCongo](https://illuminaticongo.com/)
 - [INDIGO-STARSEED](http://innerinetcompany.indigo-starseed/)
