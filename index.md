@@ -19,6 +19,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [AgniYogi](http://agniyoga.org/index.php)
 - [AllSeeingI](http://innerinetfounder.allseeingi/)
 - [atlantabiz](http://welcomeatl.atlantabiz/)
+- [Authentic Vibes LLC](http://home.authenticvibesllc/)
 - [ancientmanuscripts](http://home.ancientmanuscripts/)
 - [atlantalaw/](http://toplawyers.atlantalaw/)
 - [BENESS](http://herenow.beness/)
