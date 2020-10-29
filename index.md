@@ -121,6 +121,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [Third Eye United Vision](http://home.thirdeyeunitedvision/)
 - [tinfoilhatgang](http://the.tinfoilhatgang/)
 - [universaloperationalordinance/](https://www.dkb-mevlana.org.tr/en/txt/tanitim.pdf)
+- [UX-MINDS](http://ignite.ux-minds.hns.to/)
 - [WebSecurityGroup/](http://admin.websecuritygroup/)
 - [WETRIPPY](http://hns.wetrippy/)
 - [youareguru](http://iam.youareguru/)
