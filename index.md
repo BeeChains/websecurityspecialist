@@ -17,7 +17,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [THE 🕸 3](http://home.xn--the3-iq73c/)
 - [🕸3](http://owntheinternet.🕸3/)
 - [AgniYogi](http://agniyoga.org/index.php)
-- [All Seeing I](http://innerinetcompany.allseeingi.hns.to/)
+- [All Seeing I](http://innerinetfounder.allseeingi.hns.to/)
 - [atlantabiz](http://welcomeatl.atlantabiz/)
 - [Authentic Vibes LLC](http://home.authenticvibesllc/)
 - [ancientmanuscripts](http://home.ancientmanuscripts/)
