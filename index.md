@@ -99,10 +99,12 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 # NetworkManager | [admin.networkmanager](http://admin.networkmanager/) | [localhost.networkmanager](http://localhost.networkmanager/) | [root.networkmanager](http://root.networkmanager/)
 
 - [NXDOMAIN](http://herenow.nxdomain/)
+- [OnTheWeb3/](http://innerinetcompany.ontheweb3/)
 - [organicallygrown](http://davenportrootscompany.organicallygrown)
 - [OUDTREPRENEUR](http://home.oudtrepreneur/) I like Oud.
 - [OUTTHAMUD](http://herenow.outthamud/)
-- [OUTTHEMUD](http://gleaming.outthemud/)
+- [OUTTHEMUD](http://gleaming.outthemud/) 
+- [OwnTheWeb3/](http://official.owntheweb3/)
 - [() domain](http://home.xn---e7n/) 
 - [RAINBOWTRIBES](http://unite.rainbowtribes/)
 - [raspberrypios](http://home.raspberrypios/)
@@ -124,6 +126,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [UX-MINDS](http://ignite.ux-minds.hns.to/)
 - [WAGDOGSPA/](https://www.facebook.com/wagdogspa/)
 - [WebSecurityGroup/](http://admin.websecuritygroup/)
+# [WeOWNTheINTERNET/](http://innerinetcompany.weowntheinternet.hns.to/) | [WeOWNTheWEB3/](http://innerinetcompany.weowntheweb3/)
 - [WETRIPPY](http://hns.wetrippy/)
 - [youareguru](http://iam.youareguru/)
 
