@@ -49,6 +49,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [DEADHEAD](http://grateful.deadhead/)
 - [DECENTRALIZED DNS](http://dnsdesigns.decentralizeddns/)
 - [dnssecuritygroup](http://therootzone.dnssecuritygroup/)
+- [DO GOOD DO GOOD/](https://www.youtube.com/watch?v=SQIbz8JVA24)
 - [dragonriders](http://the.dragonriders/)
 - [earthheart](http://heartearth.earthheart/)
 - [EarthKeepers](https://www.grandmotherscouncil.org/mitakuye-oyasin-all-my-relations/)
