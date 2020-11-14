@@ -41,6 +41,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [CHARLOTTE NC](http://innerinetcompany.charlottenc/)
 - [CHINAKING](http://eatchinaking.com/)
 - [CHINA-KING](http://eatchinaking.com/)
+- [COFFEE SIPPERS](http://home.coffeesippers/)
 - [CosMatrixFoundation](http://binnerspace.cosmatrixfoundation/)
 - [CosmicSpace](http://home.cosmicspace/)
 - [CrystallineBeing](http://evolvement.crystallinebeing/)
