@@ -86,6 +86,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [HNS-BROTHERHOOD](http://home.hns-brotherhood/)
 - [hnscrypto](http://thebarron.hnscrypto/)
 - [HNS-DOMAINS](http://home.hns-domains/)
+- [HNS-GURU/](http://youareguru.hns-guru/)
 - [HNS ROOT](http://home.hnsroot/)
 - [holistichealing](http://innerinetcompany.holistichealing/)
 - [IlluminadiCongo](https://illuminaticongo.com/)
@@ -110,6 +111,8 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [OUDTREPRENEUR](http://home.oudtrepreneur/) I like Oud.
 - [OUTTHAMUD](http://herenow.outthamud/)
 - [OUTTHEMUD](http://gleaming.outthemud/) 
+- [OWN The Inner I](http://youareguru.owntheinneri/)
+- [OWN The Inner I Net](http://youareguru.owntheinnerinet/)
 - [OwnTheWeb3/](http://official.owntheweb3/)
 - [() domain](http://home.xn---e7n/) 
 - [RAINBOWTRIBES](http://unite.rainbowtribes/)
