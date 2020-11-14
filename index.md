@@ -104,7 +104,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [MySpiritWave Crypto Exchange](https://exchange.myspiritwave.xyz/) use my [CoinSwitch Referral link](https://coinswitch.co/?ref=ZTELTB86NM)
 # NetworkManager | [admin.networkmanager](http://admin.networkmanager/) | [localhost.networkmanager](http://localhost.networkmanager/) | [root.networkmanager](http://root.networkmanager/)
 
-- [NXDOMAIN](http://herenow.nxdomain/)
+- [NXDOMAIN](http://iamxdomain.nxdomain/)
 - [OnTheWeb3/](http://innerinetcompany.ontheweb3/)
 - [organicallygrown](http://davenportrootscompany.organicallygrown)
 - [OUDTREPRENEUR](http://home.oudtrepreneur/) I like Oud.
