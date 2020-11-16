@@ -101,7 +101,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [marsapiens](http://home.marsapiens/)
 - [MASTERTHYSELF](http://innerinetcompany.masterthyself) Handshake site. | [MasterThyself](https://masterthyself.joomla.com/) Joomla site.
 - [MEDICINETRIBE](http://the.medicinetribe/)
-- [🍄magic](http://trippy.xn--magic-yn93d/)
+- [🍄magic/](http://xn--hackthe-oq74f.xn--magic-yn93d/) | [Hackthe🌈.🍄magic/](http://xn--hackthe-oq74f.xn--magic-yn93d/)
 - [MySpiritWave Crypto Exchange](https://exchange.myspiritwave.xyz/) use my [CoinSwitch Referral link](https://coinswitch.co/?ref=ZTELTB86NM)
 # NetworkManager | [admin.networkmanager](http://admin.networkmanager/) | [localhost.networkmanager](http://localhost.networkmanager/) | [root.networkmanager](http://root.networkmanager/)
 
