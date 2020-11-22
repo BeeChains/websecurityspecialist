@@ -48,6 +48,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [CosmicSpace](http://home.cosmicspace/)
 - [CrystallineBeing](http://evolvement.crystallinebeing/)
 - [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup/)
+- [CYBER MAGE](http://home.cybermage/)
 - [Davenport Roots Company](http://official.davenportrootscompany/)
 - [DEADHEAD](http://grateful.deadhead/)
 - [DECENTRALIZED DNS](http://dnsdesigns.decentralizeddns/)
