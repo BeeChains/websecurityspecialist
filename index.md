@@ -100,6 +100,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [innerinetfoundation](http://official.innerinetfoundation)
 - [innerinetfounder](http://home.innerinetfounder/)
 - [innerinetworkpresident](http://official.innerinetworkpresident)
+- [InnerINetworkSecurity/](http://masterthyself.innerinetworksecurity/)
 - [JAH-LIVE](http://iandi.jah-live/)
 - [Kali Shakti Drinking Hemoglobin Like Saké](http://sourcewithin.kalishaktidrinkinghemoglobinlikesaké)
 - [KOZMOZ MATRIX](http://innerchamber.kozmozmatrix/)
