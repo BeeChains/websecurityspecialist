@@ -96,6 +96,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [IlluminadiCongo](https://illuminaticongo.com/)
 - [illuminati🙌congo/](https://illuminaticongo.com/)
 - [INDIGO-STARSEED](http://innerinetcompany.indigo-starseed/)
+- [Infinite Handshake/](http://herenow.infinitehandshake/)
 - [Inner I Net Company](http://shapereality.innerinetcompany/) Handshake site. | [Inner I Net Company](https://innerinetcompany.webflow.io/) WebFlow site.
 - [innerinetfoundation](http://official.innerinetfoundation)
 - [innerinetfounder](http://home.innerinetfounder/)
@@ -136,6 +137,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [THEMOTHERSHIP](http://herenow.themothership/)
 - [thepeacekeepers](https://siasky.net/hns/thepeacekeepers/) this domain uses the [Sia decentralized skynet](https://siasky.net/)
 - [THEPEOPLE](http://we.thepeople/)
+- [THE PRESENT MOMENT/](http://herenow.thepresentmoment/)
 - [THEROOTZONE](http://dnssecuritygroup.therootzone/)
 - [The-TLD](http://official.the-tld/)
 - [Third Eye United Vision](http://home.thirdeyeunitedvision/)
