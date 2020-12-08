@@ -40,6 +40,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [bhackme](http://home.bhackme/)
 - [bhandshake](http://try.bhandshake/)
 - [bmindful](http://herenow.bmindful/)
+- [Clemson Tiger Domain/](http://byog.clemsontigerdomain/)
 - [CLEMSONUNIVERSITYOFSOUTHCAROLINA/](http://hns.clemsonuniversityofsouthcarolina/)
 - [CHARLOTTE NC](http://innerinetcompany.charlottenc/)
 - [CHINAKING](http://eatchinaking.com/)
@@ -100,6 +101,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [IlluminadiCongo](https://illuminaticongo.com/)
 - [illuminati🙌congo/](https://illuminaticongo.com/)
 - [INDIGO-STARSEED](http://innerinetcompany.indigo-starseed/)
+- [Infinite Consciousness/](http://podvigs.infiniteconsciousness/)
 - [Infinite Handshake/](http://herenow.infinitehandshake/)
 - [Inner I Net Company](http://shapereality.innerinetcompany/) Handshake site. | [Inner I Net Company](https://innerinetcompany.webflow.io/) WebFlow site.
 - [innerinetfoundation](http://official.innerinetfoundation)
