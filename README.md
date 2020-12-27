@@ -1,6 +1,4 @@
-## Welcome to admin.websecurityspecialist 
-
-This is a Blockchain and a Top Level Domain!
+## admin.websecurityspecialist | a Handshake TLD
 
 Amazing [Handshake](https://handshake.org/) and [NameBase](https://namebase.io/). 
 
