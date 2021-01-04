@@ -1,4 +1,4 @@
-## admin.websecurityspecialist | What is Handshake 2021? See our Handshake(HNS) top level domain Web Security Specialist.
+## admin.websecurityspecialist | What are Handshake Domains 2021? See our Handshake(HNS) top level domain Web Security Specialist.
 
 | [IINC](http://dlink.iinc.hns.to/) | [Contact](https://innerinetcompany.webflow.io/contact)
 
