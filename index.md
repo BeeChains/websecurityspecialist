@@ -1,4 +1,4 @@
-## admin.websecurityspecialist | What are Handshake Domains 2021? See our Handshake(HNS) top level domain Web Security Specialist.
+## admin.websecurityspecialist | What are Handshake Domains 2021? Decentalized DNS, blockchain top level domains. Alternative-DNS, Self-Sovereign identity, Stellar 
 
 | [IINC](http://dlink.iinc.hns.to/) | [Contact](https://innerinetcompany.webflow.io/contact)
 
