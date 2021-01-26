@@ -1,11 +1,11 @@
 ## admin.websecurityspecialist | What are Handshake Domains 2021? Decentalized DNS, blockchain top level domains. Alternative-DNS, Self-Sovereign identity, Stellar 
 
-| [IINC](http://dlink.iinc.hns.to/) | [Contact](https://innerinetcompany.webflow.io/contact)
+| [IINC](http://dlink.iinc.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com)
 
 [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
  
-
-This domain and the list below are both Blockchain and Top Level Domains in one. These domains are [1timefeedomains](http://home.1timefeedomains/) so you only need to make a [Handshake](https://handshake.org/) once. [Buy HNS coin here](https://www.namebase.io/buy) Send [HandshakeHereNow](http://hns.handshakeherenow/)
+# Our domains are available on [NameBase](https://www.namebase.io/domains)!
+This domain and those on the list below are Blockchain Top Level Domains. These domains are [1timefeedomains](http://home.1timefeedomains/) so you only need to make a [Handshake](https://handshake.org/) once. [Buy HNS coin here](https://www.namebase.io/buy) Send [HandshakeHereNow](http://hns.handshakeherenow/). Expand with Us!
 
 Sudomains for sale soon!!! Let your creative imagination flow!!
 
