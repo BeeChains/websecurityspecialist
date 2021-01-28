@@ -44,7 +44,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [bhandshake](http://try.bhandshake/)
 - [bmindful](http://herenow.bmindful/)
 - [Clemson Tiger Domain/](http://byog.clemsontigerdomain/)
-- [CLEMSONUNIVERSITYOFSOUTHCAROLINA/](http://hns.clemsonuniversityofsouthcarolina/)
+- [CLEMSONUNIVERSITYOFSOUTHCAROLINA/](https://www.namebase.io/domains/clemsonuniversityofsouthcarolina)
 - [CHARLOTTE NC](http://innerinetcompany.charlottenc/)
 - [CHINAKING](http://eatchinaking.com/)
 - [CHINA-KING](http://eatchinaking.com/)
