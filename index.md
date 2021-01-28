@@ -46,7 +46,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [Clemson Tiger Domain/](http://byog.clemsontigerdomain/)
 - [CLEMSONUNIVERSITYOFSOUTHCAROLINA/](https://www.namebase.io/domains/clemsonuniversityofsouthcarolina)
 - [CHARLOTTE NC](http://innerinetcompany.charlottenc/)
-- [CHINAKING](http://eatchinaking.com/)
+- [CHINAKING](http://chinaking.hns.to/)
 - [CHINA-KING](http://eatchinaking.com/)
 - [COFFEE SIPPERS](http://home.coffeesippers/)
 - [COMZ/](https://custom.comz.hns.to/)
@@ -106,7 +106,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [INDIGO-STARSEED](http://innerinetcompany.indigo-starseed/)
 - [Infinite Consciousness/](http://podvigs.infiniteconsciousness/)
 - [Infinite Handshake/](http://herenow.infinitehandshake/)
-- [Inner I Net Company](http://shapereality.innerinetcompany/) Handshake site. | [Inner I Net Company](https://innerinetcompany.webflow.io/) WebFlow site.
+- [Inner I Net Company](http://shapereality.innerinetcompany/) Handshake site. | [Inner I Net Company](https://innerinetcompany.webflow.io/) WebFlow site. | [dlink.innerinetcompany/](http://dlink.innerinetcompany.hns.to/) |
 - [innerinetfoundation](http://official.innerinetfoundation)
 - [innerinetfounder](http://home.innerinetfounder/)
 - [innerinetworkpresident](http://official.innerinetworkpresident)
@@ -128,9 +128,9 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [OUDTREPRENEUR](http://home.oudtrepreneur/) I like Oud.
 - [OUTTHAMUD](http://herenow.outthamud/)
 - [OUTTHEMUD](http://gleaming.outthemud/) 
-- [OWN The Inner I](http://youareguru.owntheinneri/)
+- [OWN The Inner I](http://youareguru.owntheinneri/) 
 - [OWN The Inner I Net](http://youareguru.owntheinnerinet/)
-- [OwnTheWeb3/](http://official.owntheweb3/)
+- [OwnTheWeb3/](http://official.owntheweb3/) | [OwnTheWeb3.hns.to/](http://owntheweb3.hns.to/)
 - [() domain](http://home.xn---e7n/) 
 - [RAINBOWTRIBES](http://unite.rainbowtribes/)
 - [raspberrypios](http://home.raspberrypios/)
@@ -147,7 +147,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [thepeacekeepers](https://siasky.net/hns/thepeacekeepers/) this domain uses the [Sia decentralized skynet](https://siasky.net/)
 - [THEPEOPLE](http://we.thepeople/)
 - [THE PRESENT MOMENT/](http://herenow.thepresentmoment/)
-- [THEROOTZONE](http://dnssecuritygroup.therootzone/)
+- [THEROOTZONE](http://dnssecuritygroup.therootzone/) | [therootzone.hns.to/](http://therootzone.hns.to/)
 - [The-TLD](http://official.the-tld/)
 - [Third Eye United Vision](http://home.thirdeyeunitedvision/)
 - [tinfoilhatgang](http://the.tinfoilhatgang/)
