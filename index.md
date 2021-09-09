@@ -1,6 +1,6 @@
 ## admin.websecurityspecialist | What are Handshake Domains 2021? Decentalized DNS, blockchain top level domains. Alternative-DNS, Self-Sovereign identity, Stellar 
 
-| [IINC](http://dlink.iinc.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com)
+| [IINC](http://dlink.iinc.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [🐻💻/](http://xn--gp8h6h.hns.to/) |
 
 [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
  
@@ -93,7 +93,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [hempproducer](https://beechains.github.io/hempproducer/)
 - [HERE IN THE NOW](http://b.hereinthenow/)
 - [HERE NOW](http://b.herenow/)
-- [hivemind](http://we.hivemind/)
+- [HIVEMIND](http://we.hivemind/)
 - [HNS-BROTHERHOOD](http://home.hns-brotherhood/)
 - [HNSCRYPTO](http://thebarron.hnscrypto/)
 - [HNS-DEV/](https://home.hns-dev.hns.to/)
@@ -133,7 +133,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [OwnTheWeb3/](http://official.owntheweb3/) | [OwnTheWeb3.hns.to/](http://owntheweb3.hns.to/)
 - [() domain](http://home.xn---e7n/) 
 - [RAINBOWTRIBES](http://unite.rainbowtribes/)
-- [raspberrypios](http://home.raspberrypios/)
+- [raspberrypiOS](http://home.raspberrypios/)
 - [realestateco](http://shapingreality.realestateco/)
 - [realestatellc](http://shapereality.realestatellc/)
 - [SACRED VIBES](http://home.sacredvibes/)
