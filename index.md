@@ -1,4 +1,4 @@
-## admin.websecurityspecialist | What are Handshake Domains 2021? Decentalized DNS, blockchain top level domains. Alternative-DNS, Self-Sovereign identity, Stellar 
+## admin.websecurityspecialist | What are Handshake Domains 2021? Decentalized DNS, blockchain top level domains. Alternative-DNS, Self-Sovereign identity, NFTs, The New Internet Real Estates
 
 | [IINC](http://dlink.iinc.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [🐻💻/](http://xn--gp8h6h.hns.to/) |
 
@@ -11,7 +11,7 @@ Sudomains for sale soon!!! Let your creative imagination flow!!
 
 Now, a round of applause to [Namebase.io](https://namebase.io/), [Handshake](https://handshake.org/) and [Sia](https://siasky.net/).
 Please know as a new user you will need to use this link for resolving Handshake domains; [Namebase](https://learn.namebase.io/starting-from-zero/how-to-access-handshake-site), [this guide helped me](https://medium.com/blockchannel/explore-handshake-domains-today-9b087ed77a25) are you connected to [HNS](http://labyrinthtech.xyz/hnscheck.html). Build [secure websites for your Handshake domains](https://medium.com/@matthewzipkin/building-a-secure-website-on-your-handshake-tld-a8922a950a4f).
-Another option is try using [HNS.to](https://hns.to/) to resolve Handshake domains.
+Another option is try using [HNS.to](https://hns.to/) to resolve Handshake domains or [HDNS.io/](https://www.hdns.io/)
 
 Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.innerinetcompany/) Domains are [ORGANICALLY GROWN](http://davenportrootscompany.organicallygrown/) from [THE ROOT ZONE](http://dnssecuritygroup.therootzone/) and built for the future web by [SHAPING REALITY](http://innerinetcompany.shapereality/) right [HERE IN THE NOW](http://b.hereinthenow/).  
 
