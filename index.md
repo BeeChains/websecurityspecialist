@@ -72,7 +72,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [EVOLVEMENTCHAIN/](https://www.dkb-mevlana.org.tr/en/txt/tanitim.pdf)
 - [Farm Hemp](http://hempdomain.farmhemp/)
 
-- | [FindUsOnTheWeb](http://iinc.findusontheweb/)
+- [FindUsOnTheWeb](http://iinc.findusontheweb/)
 - [forbobanddouginspace](http://dragon.forbobanddouginspace/)
 - [Lost Fragrance of The Mountain Gods](http://hns.lostfragranceofthemountaingods/)
 - [getlifted](http://bthespirit.getlifted/)
@@ -81,6 +81,7 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [HACKTHECOSMOS](http://cosmicspace.hackthecosmos/)
 - [HACKTHE🌈](http://xn--3-qn3s.xn--hackthe-oq74f/)
 - [HACKTHEWORLD](http://home.hacktheworld/)
+- # [Akash.Handshake🤝/](http://akash.xn--handshake-et86h.hns.to/) on [Handhshake🤝/](http://xn--handshake-et86h.hns.to/) TLD.
 - [handshakeherenow](http://hns.handshakeherenow/)
 - [hempdomain](http://davenportrootscompany.hempdomain/)
 - [hempproducer](https://beechains.github.io/hempproducer/)
