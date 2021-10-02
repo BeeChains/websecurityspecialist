@@ -1,4 +1,4 @@
-## admin.websecurityspecialist | What are Handshake Domains 2021? Decentalized DNS, blockchain top level domains. Alternative-DNS, Self-Sovereign identity, NFTs, The New Internet Real Estates
+## admin.websecurityspecialist | What are Handshake Domains 2021? Decentalized DNS, blockchain top level domains. Alternative-DNS, Self-Sovereign identity, NFTs, The New Internet Real Estates, Handshake 🤝...
 
 | [IINC](http://dlink.iinc.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [🐻💻/](http://xn--gp8h6h.hns.to/) |
 
@@ -13,23 +13,25 @@ Now, a round of applause to [Namebase.io](https://namebase.io/), [Handshake](htt
 Please know as a new user you will need to use this link for resolving Handshake domains; [Namebase](https://learn.namebase.io/starting-from-zero/how-to-access-handshake-site), [this guide helped me](https://medium.com/blockchannel/explore-handshake-domains-today-9b087ed77a25) are you connected to [HNS](http://labyrinthtech.xyz/hnscheck.html). Build [secure websites for your Handshake domains](https://medium.com/@matthewzipkin/building-a-secure-website-on-your-handshake-tld-a8922a950a4f).
 Another option is try using [HNS.to](https://hns.to/) to resolve Handshake domains or [HDNS.io/](https://www.hdns.io/)
 
+# [Akash.Handshake🤝/](http://akash.xn--handshake-et86h.hns.to/) on [Handhshake🤝/](http://xn--handshake-et86h.hns.to/) TLD.
+
 Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.innerinetcompany/) Domains are [ORGANICALLY GROWN](http://davenportrootscompany.organicallygrown/) from [THE ROOT ZONE](http://dnssecuritygroup.therootzone/) and built for the future web by [SHAPING REALITY](http://innerinetcompany.shapereality/) right [HERE IN THE NOW](http://b.hereinthenow/).  
 
 [Offer](https://paxful.com/offer/4R2fy1UofBm?r=DZQGBPPE3k7)
 
 - [A👁/](https://allseeingi.xn--a-z42s.hns.to/)
-- [THE 🕸 3](http://home.xn--the3-iq73c/)
-- [🕸3](http://owntheinternet.🕸3/)
-- [AgniYogi](http://agniyoga.org/index.php)
+- [THE🕸3/](http://home.xn--the3-iq73c/)
+- [🕸3/](http://owntheinternet.🕸3/)
+- [AgniYogi/](http://agniyoga.org/index.php)
 - [⚗Alchemy/](https://inner.xn--alchemy-2x7d/)
-- [All Seeing I](http://innerinetfounder.allseeingi.hns.to/)
-- [atlantabiz](http://welcomeatl.atlantabiz/)
+- [AllSeeingI/](http://innerinetfounder.allseeingi.hns.to/)
+- [atlantabiz/](http://welcomeatl.atlantabiz/)
 - [Authentic Vibes LLC](http://home.authenticvibesllc/)
 - [ancientmanuscripts](http://home.ancientmanuscripts/)
 - [atlantalaw/](http://toplawyers.atlantalaw/)
-- [BENESS](http://herenow.beness/)
+- [BENESS/](http://herenow.beness/)
 - [Broke The 7 Seals Let The 🌈 Spin](http://sourcewithin.xn--brokethe7sealsletthespin-uu81x.hns.to/)
-- [B-The-Spirit](http://i.b-the-spirit/)
+- [B-The-Spirit/](http://i.b-the-spirit/)
 - [144000](http://redeemers.144000/)
 - [redeemer1.144000](http://redeemer1.144000/)
 - [redeemer2.144000](http://redeemer2.144000/)
@@ -44,10 +46,6 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [bhandshake](http://try.bhandshake/)
 - [bmindful](http://herenow.bmindful/)
 - [Clemson Tiger Domain/](http://byog.clemsontigerdomain/)
-- [CLEMSONUNIVERSITYOFSOUTHCAROLINA/](https://www.namebase.io/domains/clemsonuniversityofsouthcarolina)
-- [CHARLOTTE NC](http://innerinetcompany.charlottenc/)
-- [CHINAKING](http://chinaking.hns.to/)
-- [CHINA-KING](http://eatchinaking.com/)
 - [COFFEE SIPPERS](http://home.coffeesippers/)
 - [COMZ/](https://custom.comz.hns.to/)
 - [CosMatrixFoundation](http://binnerspace.cosmatrixfoundation/)
@@ -78,11 +76,6 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [forbobanddouginspace](http://dragon.forbobanddouginspace/)
 - [Lost Fragrance of The Mountain Gods](http://hns.lostfragranceofthemountaingods/)
 - [getlifted](http://bthespirit.getlifted/)
-- [googlebug](http://home.googlebug/)
-- [googlenow](http://hello.googlenow/)
-- [googlerobot](http://home.googlerobot/)
-- [googlethatshit](http://home.googlethatshit/)
-- [googleusa](http://home.googleusa/)
 - [hackmedomain](http://loveme.hackmedomain/)
 - [hackmeweb](http://hns.hackmeweb/)
 - [HACKTHECOSMOS](http://cosmicspace.hackthecosmos/)
@@ -133,7 +126,6 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [OwnTheWeb3/](http://official.owntheweb3/) | [OwnTheWeb3.hns.to/](http://owntheweb3.hns.to/)
 - [() domain](http://home.xn---e7n/) 
 - [RAINBOWTRIBES](http://unite.rainbowtribes/)
-- [raspberrypiOS](http://home.raspberrypios/)
 - [realestateco](http://shapingreality.realestateco/)
 - [realestatellc](http://shapereality.realestatellc/)
 - [SACRED VIBES](http://home.sacredvibes/)
