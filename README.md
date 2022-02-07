@@ -2,7 +2,7 @@
 
 Amazing [Handshake](https://handshake.org/) and [NameBase](https://namebase.io/). 
 
-- subdomains available soon!!
+- subdomains available
  
-To inquiry contact [bthespirit777@protonmail.com](https://protonmail.com/)
+
 
