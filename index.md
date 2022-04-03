@@ -152,7 +152,8 @@ Without further ado! The entirety of [INNER I NET COMPANY](http://shapereality.i
 - [WETRIPPY](http://hns.wetrippy/)
 - [youareguru](http://iam.youareguru/)
 
-<form action="http://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
+<a href="https://wagmi.dworldwideweb.com/register.php">Click here to register at WAGMI.dWorldWideWeb.com</a>
+<form action="https://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
 Find your Domain: <input type="text" name="query" size="20" />
 <input type="submit" value="Go" />
 </form>
